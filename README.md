@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chris556784
-- 👀 I’m interested in lerning about elixir
-- 🌱 I’m currently learning to code 
-- 💞️ I’m looking to collaborate on game codes and makeing games
+- 👀 I’m interested in lerning about elixir vr gameing and pc gameing industry
+- 🌱 I’m currently learning to code on roblox
+- 💞️ I’m looking to collaborate on games and makeing games
 - 📫 How to reach me @christophermonserrate25@gmail.com
 
 <!---
